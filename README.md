@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @filzahusna
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to get a job as a software developer
+- 👋 Hi, I’m Filzahusna Muhammad
+- 🌱 This is where I host my Data Analysis projects
 - 📫 Email me on filza.husna@gmail.com
 
 <!---
