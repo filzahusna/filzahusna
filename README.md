@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Filzahusna Muhammad
 - 🌱 This is where I host my Data Analysis projects
-- 📫 Email me on filza.husna@gmail.com
+- 📫 Email me at filza.husna@gmail.com
 
 <!---
 filzahusna/filzahusna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
