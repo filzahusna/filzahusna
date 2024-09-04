@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Filzahusna Muhammad
 - 🌱 This is where I host my Data Analysis projects
+- (Microsoft Excel & Power BI)
 - 📫 Email me at filza.husna@gmail.com
 
 <!---
