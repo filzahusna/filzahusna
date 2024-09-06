@@ -3,7 +3,7 @@
 - (Microsoft Excel & Power BI)
 - 📫 Email me at filza.husna@gmail.com
 
-  ![](Certificate for Excel Power Query.png)
+  ![](Certificate20%for20%Excel20%Power20%Query.png)
 
 <!---
 filzahusna/filzahusna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
