@@ -4,6 +4,8 @@
 - 📫 Email me at filza.husna@gmail.com
 
   ![](Power_Query_Certificate.png)
+  ![](Power_BI_Certificate.png)
+  
 
 <!---
 filzahusna/filzahusna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
