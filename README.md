@@ -3,6 +3,7 @@
 - (Microsoft Excel & Power BI)
 - 📫 Email me at filza.husna@gmail.com
 
+![](certificate-1746393317721.jpg)
   ![](Power_Query_Certificate.png)
   ![](Power_BI_Certificate.png)
   
